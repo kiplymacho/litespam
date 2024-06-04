@@ -17,6 +17,12 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
 👉[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
+<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
+
+[![API](https://img.shields.io/badge/API-21%2B-yellow.svg?style=flat)](https://developer.android.com/about/versions/oreo)
+
 - Unduh Script:
 - Klik Disini👉
   [![Script litespam](http://img.shields.io/badge/ScriptLitespam-7-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
@@ -39,12 +45,12 @@ SEGALA SESUATU DI TANGGUNG PENGGUNA
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-- Kritik & Saran 
-- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
-- [WhatsApp](https://wa.me/6285751032225)
-
-# _Follow_
-- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+- - Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
 # _Subscribe_
-- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
+
+# _Follow_
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
