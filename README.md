@@ -17,8 +17,8 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
 👉[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
-Unduh Script Disini:
-👉[![Script litespam](http://img.shields.io/badge/ScriptLitespam-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
+- Unduh Script:
+Klik Disini👉[![Script litespam](http://img.shields.io/badge/ScriptLitespam-7-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
                                     
 # PERINGATAN
 KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN `KEBAIKAN` BUKAN DISALAHKAN GUNAKAN UNTUK _~MENJAHILI~_ SESEORANG
