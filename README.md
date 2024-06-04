@@ -11,18 +11,18 @@ Powered By kiplymacho
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 # LITESPAM
-Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu Hackers, Cyber, Cracker, Anonymous Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
+Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu `Hackers`, `Cyber`,`Cracker`,`Anonymous` Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
 
 # INSTALASI
 
-Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Klik Disini 👉
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan _~Error~_,Unduh Aplikasi Klik Disini 👉
 [Termux](https://sfile.mobi/1Pk3b69xugs7)
 
 Unduh Script Disini:
 👉[Script litespam](https://sfile.mobi/anV5WLZmCIo)
                                     
 # PERINGATAN
-KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN KEBAIKAN BUKAN DISALAHKAN GUNAKAN UNTUK MENJAHILI SESEORANG
+KAMI HANYA MENYEDIAKAN TOOLS UNTUK TUJUAN `KEBAIKAN` BUKAN DISALAHKAN GUNAKAN UNTUK _~MENJAHILI~_ SESEORANG
 SEGALA SESUATU DI TANGGUNG PENGGUNA
 
 </p>
