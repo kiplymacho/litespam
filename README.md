@@ -6,16 +6,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
 
-<h2 align="center">
-Powered By kiplymacho
-<img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # LITESPAM
 Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu `Hackers`, `Cyber`,`Cracker`,`Anonymous` Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
 
 # Syarat && Bahan Untuk Menggunakan Script Ini
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
-👉[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+👉
+[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 - Unduh Script:
 - Klik Disini👉
@@ -25,7 +24,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
-- [![Android](https://img.shields.io/badge/Android-1B-yellow.svg?style=flat)](https://developer.android.com/about/versions/oreo)
+- [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/oreo)
 
                                     
 # PERINGATAN
