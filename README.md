@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
 
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+ [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # LITESPAM
 Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu `Hackers`, `Cyber`,`Cracker`,`Anonymous` Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
@@ -20,7 +20,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 - Klik Disini👉
   [![Script litespam](http://img.shields.io/badge/ScriptLitespam-7-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
 
-<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
+<a href="https://https://play.google.com/store/apps/details?id=pro.xhypher.tunnel">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
