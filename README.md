@@ -18,7 +18,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 # Syarat && Bahan Untuk Menggunakan Script Ini
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 
-- Unduh Aplikasi Termux Nya Disini:
+- Unduh Aplikasi Termux:
 
 <h2 align="center">
 
