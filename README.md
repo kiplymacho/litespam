@@ -5,8 +5,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
+
 <h2 align="center">
- [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # LITESPAM
 Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu `Hackers`, `Cyber`,`Cracker`,`Anonymous` Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
