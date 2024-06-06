@@ -20,7 +20,7 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 - Klik Disini👉
   [![Script litespam](http://img.shields.io/badge/ScriptLitespam-7-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
 
-<a href="https://https://play.google.com/store/apps/details?id=pro.xhypher.tunnel">
+<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
@@ -45,7 +45,7 @@ SEGALA SESUATU DI TANGGUNG PENGGUNA
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-- - Kritik & Saran
+- Kritik & Saran
 - [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
 -  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
