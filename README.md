@@ -27,12 +27,6 @@ Klik Dibawah Ini
 👇👇
 
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
-
-- Unduh Script:
-
-<h2 align="center">
-   
- Klik Dibawah Ini
   
   👇👇
   
