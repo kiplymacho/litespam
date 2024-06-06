@@ -16,8 +16,16 @@
 Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Diperkirakan Unlimited Dibangun Atas Segala Kontribusi Coders Untuk Mengumpulkan Tools Nya Disini, Dengan Spam Tidak Menjadikan mu `Hackers`, `Cyber`,`Cracker`,`Anonymous` Dan Antek Anteknya. Spamming Hanya Untuk Tujuan Baik Tidak Melanggar Hukum Dan Aturan Agama
 
 # Syarat && Bahan Untuk Menggunakan Script Ini
-- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
-👉
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+
+- Unduh Aplikasi Termux Nya Disini:
+
+<h2 align="center">
+
+Klik Dibawah Ini
+
+👇👇
+
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 - Unduh Script:
