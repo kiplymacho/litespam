@@ -24,7 +24,8 @@ Berisi Tools Spammer Dengan Berbagai Macam jenis Dengan Limit Tinggi Bahkan Dipe
 
 <h2 align="center">
    
-Klik Dibawah Ini
+ Klik Dibawah Ini
+  
   👇👇
   
   [![Script litespam](http://img.shields.io/badge/ScriptLitespam-7-yellow.svg?style=flat)](https://sfile.mobi/anV5WLZmCIo)
